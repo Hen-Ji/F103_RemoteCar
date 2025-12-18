@@ -1,0 +1,1 @@
+更改项目名称后要在CMakeLists.txt中改 set(CMAKE_PROJECT_NAME ...)
