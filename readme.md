@@ -1,1 +1,1 @@
-更改项目名称后要在CMakeLists.txt中改 set(CMAKE_PROJECT_NAME ...)
+智能小车，基于FreeRTOS，使用C/C++混合编程，使用CMake构建
